@@ -2,7 +2,7 @@
 
 
 
-This project is a deliverable of Cyber Physical System Security - (CZ4005) module from Nanyang Technological University. 
+This project is a deliverable of Cyber Physical System Security - (CZ4055) module from Nanyang Technological University. 
 
 The project consists of two tools: 
   - Correlation Power Analysis Tool (Java)
