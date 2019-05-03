@@ -70,8 +70,9 @@ java -jar CPSS.jar waveform.csv 10 200 10 Key.txt
 ```
 
 Once the program finish analyzing the traces, these .csv files are created
+
 | File name | Description |
-| ------ | ------ |
+| --- | --- |
 | Graph.csv | Data for no. of traces vs no. of bits recovered|
 | MinMaxCorMatrix1.csv | Data for Correlation Coefficient vs No. of Traces for 1st byte of Key|
 | MinMaxCorMatrix2.csv | Data for Correlation Coefficient vs No. of Traces for 2nd byte of Key|
