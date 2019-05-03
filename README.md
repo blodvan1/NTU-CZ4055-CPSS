@@ -36,8 +36,9 @@ If you have other sample waveform.csv files, place your waveform.csv into the ex
 If you are using another key, do update Key.txt with your key
 
 **CPSS.jar takes in no arguments OR 5 arguments**
+
 | Argument | Description |
-| ------ | ------ |
+| --- | --- |
 | arg1 | File name of the trace samples i.e waveform.csv|
 | arg2 | start from arg2 number of traces to do analysis (must be >=10)|
 | arg3  | total number of traces you want to do analysis minus arg2  |
