@@ -118,9 +118,9 @@ Alternatively, you can use the python notebook version : **cyber_physical_securi
 This README will not provide instructions on how to modify the source code. Should there be any questions regarding the source code, you can contact me at [Lim Jing Qiang](mailto:LIMJ0202@e.ntu.edu.sg) or <jing_qiang_5@hotmail.com>
 ## Group Members
 
-* **Lim Jing Qiang** - U1722144E
-* **Koh Chin Woon** - U1721286F
-* **Oon Zi Hui** - U1722934E
+* **Lim Jing Qiang** 
+* **Koh Chin Woon** 
+* **Oon Zi Hui** 
 
 
 ## Acknowledgments
